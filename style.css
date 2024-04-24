@@ -1,0 +1,13 @@
+body{
+	background-color: black;
+}
+
+canvas {
+	filter: blur(7px) contrast(50);
+	background-color: black;
+	position: absolute;
+	top: 0;
+	left: 0;
+	cursor: pointer;
+}
+
